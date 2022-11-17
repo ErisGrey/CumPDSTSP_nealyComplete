@@ -1,0 +1,19 @@
+﻿  energymodel.cpp
+  instance.cpp
+D:\FuckCumPDSTSP\CumPDSTSP2\instance.cpp(148,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\FuckCumPDSTSP\CumPDSTSP2\instance.cpp(152,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FuckCumPDSTSP\CumPDSTSP2\instance.cpp(337,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\FuckCumPDSTSP\CumPDSTSP2\config.h(69,81): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  solver.cpp
+D:\FuckCumPDSTSP\CumPDSTSP2\solver.cpp(106,85): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating Code...
+  CumPDSTSP2.vcxproj -> D:\FuckCumPDSTSP\CumPDSTSP2\x64\Debug\CumPDSTSP2.exe
